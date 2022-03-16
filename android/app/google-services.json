@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168227898123",
+    "project_id": "madical-601dd",
+    "storage_bucket": "madical-601dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168227898123:android:93517cb22276a32c01d80e",
+        "android_client_info": {
+          "package_name": "com.example.graduation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168227898123-nmhlokpqnbbi3f4nl8js3vve8apsqqdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgfAFEeoLoYXlRU0n9beMHzhi34RL-2ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168227898123-nmhlokpqnbbi3f4nl8js3vve8apsqqdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
